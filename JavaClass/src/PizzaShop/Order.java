@@ -160,12 +160,12 @@ public class Order {
 
     public void welcome() { // 가게 소개
         System.out.println("**************************************************\n");
-        System.out.println("Welcome to 승종's Pizza of West Chester!\n");
+        System.out.println("Welcome to 's Pizza of West Chester!\n");
         System.out.println("**************************************************\n");
     }
 
     public void bye() { // 감사 인사
-        System.out.println("Thank you visiting 승종's pizza of West Chester! \n ");
+        System.out.println("Thank you visiting 's pizza of West Chester! \n ");
         System.out.println("Come back soon! \n");
         System.out.println("**************************************************\n");
     }
